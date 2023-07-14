@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "467190161889",
+    "project_id": "the-wall-social-app",
+    "storage_bucket": "the-wall-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467190161889:android:8b53a4916ff888b718b2a0",
+        "android_client_info": {
+          "package_name": "com.example.the_wall_socia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467190161889-c85i7i1lcu219hqvtdfi0dkh67gbmhv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqyRDyivshtl4fEIelCsswaBbHwEcIzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467190161889-c85i7i1lcu219hqvtdfi0dkh67gbmhv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467190161889-8nltuboecdf6gme78kaepq4pgqos22ul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.theWallSociaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
