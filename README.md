@@ -33,7 +33,8 @@ The Wall Application is released under the MIT License. Refer to the LICENSE fil
 <img src="https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/the_wall.jpg?alt=media&token=27787193-e8a6-485b-833e-72d4b218e385" height="500"  />
 
 
-<video width="640" height="480" controls>
-  <source src="https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/the_wall.mp4?alt=media&token=bb9cd8e9-e704-4b33-89bc-c51e34fe183c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+https://github.com/Thepilli/the_wall_app/assets/104307512/5f992e5e-2cee-4cf5-9e21-a207c8ac9075
+
